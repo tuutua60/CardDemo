@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b5caeb780fc3c546a36ef91d0a9bf8f, type: 3}
+  m_Name: 1041
+  m_EditorClassIdentifier: 
+  skillIcon: {fileID: 0}
+  skillID: 1041
+  skillName: "\u9F99\u738B\u4E4B\u6012"
+  skillDes: 
+  shakeBeforeTimeMS: 800
+  atkDurationMS: 500
+  shakeAfterTimeMS: 800
+  isNormalAttack: 0
+  damageCount: 1
+  needRageValue: 100
+  skillType: 1
+  targetType: 3
+  teamType: 0
+  skillDamageType: 0
+  skillPercentage: 100
+  bulletPath: 
+  animName: Skill
+  audioName: 
+  atkEffectName: 
+  hitEffectName: Effect_104_skill
+  buffArr: 

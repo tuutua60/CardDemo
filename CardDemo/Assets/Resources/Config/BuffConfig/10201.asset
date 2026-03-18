@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29278086c01e18f4b8bae2e1098abd90, type: 3}
+  m_Name: 10201
+  m_EditorClassIdentifier: 
+  buffIcon: {fileID: 21300000, guid: 7bca05d7692c37e4eb2d71d1a9deaf4e, type: 3}
+  buffID: 10201
+  buffName: 
+  buffDes: "\u964D\u4F4E30%\u901F\u5EA62\u56DE\u5408"
+  percentage: 100
+  maxOverlayCount: 1
+  durationRoundCount: 2
+  triggerType: 0
+  buffType: 1
+  buffDetailType: 0
+  dEBuffDetailType: 1
+  damageBuffDetailType: 0
+  controlBuffDetailType: 0
+  rate: 30
+  buffEffectName: 
+  audioName: 
